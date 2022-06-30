@@ -1,0 +1,60 @@
+@import "includedFont";
+
+.topContainer{
+  height:752px;
+  background: linear-gradient(180deg, #E7ECF0 0%, #FFFFFF 100%);
+  padding-top:24px;
+}
+
+.container{
+  margin: 0 auto;
+  max-width: 1140px;
+  min-height: 3028px;
+}
+
+.navigation{
+  display: flex;
+  font-family: 'Graphik';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 24px;
+  justify-content: space-between;
+  &__list{
+    display: flex;
+    justify-content: space-between;
+    &_link{
+      cursor: pointer;
+    }
+  }
+};
+
+.footer {
+  font-family: 'Graphik';
+  color: #4C6272;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  border-top: 1px solid rgb(240, 240, 240);
+  &__container{
+    display: flex;
+    height: 72px;
+    width: 100%;
+    flex-direction: row;
+    justify-content: space-between;
+    font-style: normal;
+    font-weight: 400;
+    align-items: center;
+    font-size: 14px;
+    line-height: 24px;
+
+    &_second_column{
+      display: flex;
+      &_policy{
+        margin-left: 32px;
+      }
+    }
+  }
+
+}
