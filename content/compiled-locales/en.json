@@ -1,0 +1,38 @@
+{
+  "navigation_button_contact": [
+    {
+      "type": 0,
+      "value": "Contact sales"
+    }
+  ],
+  "navigation_button_started": [
+    {
+      "type": 0,
+      "value": "Get started"
+    }
+  ],
+  "navigation_list_link_apps": [
+    {
+      "type": 0,
+      "value": "Apps"
+    }
+  ],
+  "navigation_list_link_developers": [
+    {
+      "type": 0,
+      "value": "Developers"
+    }
+  ],
+  "navigation_list_link_oplossingen": [
+    {
+      "type": 0,
+      "value": "Oplossingen"
+    }
+  ],
+  "navigation_list_link_over_afosto": [
+    {
+      "type": 0,
+      "value": "Over Afosto"
+    }
+  ]
+}
