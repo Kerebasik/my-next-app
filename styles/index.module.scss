@@ -9,12 +9,10 @@
 .container{
   margin: 0 auto;
   max-width: 1140px;
-  min-height: 3028px;
 }
 
 .navigation{
   display: flex;
-  font-family: 'Graphik';
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
@@ -23,11 +21,22 @@
   &__list{
     display: flex;
     justify-content: space-between;
+    &_button{
+      font-style: normal;
+      font-weight: 500;
+      font-size: 14px;
+      line-height: 24px;
+    }
     &_link{
       cursor: pointer;
     }
   }
 };
+
+.footer__title{
+  background: #FFFFFF;
+  min-height: 408px;
+}
 
 .footer {
   font-family: 'Graphik';
@@ -36,18 +45,39 @@
   font-weight: 400;
   font-size: 14px;
   line-height: 24px;
-  border-top: 1px solid rgb(240, 240, 240);
+
+  &__title{
+    &_list{
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+    }
+    &_firstColumn{
+      flex:0 0 28%
+    }
+    &_secondColumn{
+      flex:0 0 72%;
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+
+    }
+  }
   &__container{
-    display: flex;
-    height: 72px;
     width: 100%;
-    flex-direction: row;
-    justify-content: space-between;
-    font-style: normal;
-    font-weight: 400;
-    align-items: center;
-    font-size: 14px;
-    line-height: 24px;
+    border-top: 1px solid rgb(240, 240, 240);
+    &_grid{
+      display: flex;
+      height: 72px;
+      width: 100%;
+      flex-direction: row;
+      justify-content: space-between;
+      font-style: normal;
+      font-weight: 400;
+      align-items: center;
+      font-size: 14px;
+      line-height: 24px;
+    }
 
     &_second_column{
       display: flex;

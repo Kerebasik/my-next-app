@@ -1,8 +1,47 @@
 {
-  "navigation_button_contact": "Contact sales",
-  "navigation_button_started": "Get started",
-  "navigation_list_link_oplossingen": "Oplossingen",
-  "navigation_list_link_apps": "Apps",
-  "navigation_list_link_over_afosto": "Over Afosto",
-  "navigation_list_link_developers": "Developers"
+    "navigation_button_contact": "Contact sales",
+    "navigation_button_started": "Get started",
+    "navigation_list_link_oplossingen": "Oplossingen",
+    "navigation_list_link_apps": "Apps",
+    "navigation_list_link_over_afosto": "Over Afosto",
+    "navigation_list_link_developers": "Developers",
+
+    "footers_title_text": "Improve your business processes in a scalable and efficient way using Afosto's revolutionary software solutions.",
+    "footers_list_oplossingen": "Oplossingen",
+    "footers_list_orders": "Orders",
+    "footers_list_producten": "Producten",
+    "footers_list_wms": "WMS",
+    "footers_list_order_picket": "Order picket",
+    "footers_list_klanten": "Klanten",
+    "footers_list_automation": "Automation",
+    "footers_list_data_analytics": "Data analytics",
+
+    "footers_list_apps": "Apps",
+    "footers_list_webshop": "Webshop",
+    "footers_list_pos_systeem": "POS systeem",
+    "footers_list_store_screens": "In-store screens",
+    "footers_list_quiq": "Quicq",
+    "footers_list_spooler": "Spooler",
+    "footers_list_instant_search": "Instant Search",
+
+    "footers_list_about_afosto": "About Afosto",
+    "footers_list_vacatures": "Vacatures",
+    "footers_list_blog": "Blog",
+    "footers_list_contact": "Contact",
+    "footers_list_documentatie": "Documentatie",
+    "footers_list_partners": "Partners",
+
+    "footers_list_developers": "Developers",
+    "footers_list_integrations": "Integrations",
+    "footers_list_api_documentatie": "API documentatie",
+    "footers_list_performance": "Performance",
+    "footers_list_platform_status": "Platform status"
+
+
+
+
+
+
+
+
 }
